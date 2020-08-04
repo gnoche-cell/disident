@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{226:function(e,t,n){"use strict";n.r(t);var r=n(44),a=n(0),l=n.n(a);t.default=function(e){var t=e.uri;return l.a.createElement(r.b,{url:t,title:"About this blog"},l.a.createElement("h1",null,"Acerca de nuestro grupo"),l.a.createElement("p",null,"Lorem ipsum..."," ",l.a.createElement("strong",null,"Si vis pacem, para bellum")," 🥔"))}}}]);
+//# sourceMappingURL=component---content-pages-about-tsx-4d97e8a2ec6bcf33aba1.js.map

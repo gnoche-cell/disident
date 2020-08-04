@@ -1,0 +1,1 @@
+{"componentChunkName":"component---node-modules-gatsby-theme-potato-src-templates-category-template-tsx","path":"/categories/null","webpackCompilationHash":"","result":{"errors":[{"message":"Variable \"$category\" of non-null type \"String!\" must not be null.","locations":[{"line":2,"column":3}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"category":null}}}
